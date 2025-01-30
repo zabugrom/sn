@@ -18,7 +18,7 @@ BLACK = (0, 0, 0)
 
 # Создание окна
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption('Змейка')
+pygame.display.set_caption('Змей2ка')
 
 class Snake:
     def __init__(self):
